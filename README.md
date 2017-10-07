@@ -1,6 +1,6 @@
 # rapport22-gmail2calendar
 
-Gmailで受信した[英会話教室Rapport22](http://www.eigohanaseru.com/)のレッスン予約確認メールから、Googleカレンダーにレッスンスケジュールを自動登録するGoogle Apps Scriptです。
+Gmailで受信した[英会話教室Rapport22](http://www.eigohanaseru.com/)のレッスン予約確認メールから、Googleカレンダーにレッスン予約を自動登録するGoogle Apps Scriptです。
 
 ## 準備
 * Rapport22の登録メールアドレスをGmailのものにする
